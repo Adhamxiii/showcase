@@ -64,7 +64,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## Live Demo
 
-You can access the live version of Wheel Master Academy [here](https://showcase-tau.vercel.app/).
+You can access the live version of showcase [here](https://showcase-tau.vercel.app/).
 
 ## Contact Me
 
